@@ -4,9 +4,9 @@ public class Main {
         
         System.out.println("Programa iniciado");
 
-        //llamar funcionalidades
-        Ordenamientoss orden = new Ordenamientoss();
-        orden.Ordenamiento_burbuja();
+        // Aquí llamas las funcionalidades que ya hiciste
+        Ordenamiento orden = new Ordenamiento();
+        orden.bubbleSort();
 
     }
 }
