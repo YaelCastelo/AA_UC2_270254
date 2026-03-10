@@ -1,4 +1,4 @@
-public class Main {
+public class Main_burbuja {
 
     public static void main(String[] args) {
 
